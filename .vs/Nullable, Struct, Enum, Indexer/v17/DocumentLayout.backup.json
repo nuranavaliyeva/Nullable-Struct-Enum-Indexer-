@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{173C1E70-C23A-4633-8116-5AF0FCCA01F4}|Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer.csproj|c:\\users\\nuran\\source\\repos\\nullable, struct, enum, indexer\\nullable, struct, enum, indexer\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{173C1E70-C23A-4633-8116-5AF0FCCA01F4}|Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer.csproj|solutionrelative:nullable, struct, enum, indexer\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{173C1E70-C23A-4633-8116-5AF0FCCA01F4}|Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer.csproj|c:\\users\\nuran\\source\\repos\\nullable, struct, enum, indexer\\nullable, struct, enum, indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{173C1E70-C23A-4633-8116-5AF0FCCA01F4}|Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer.csproj|solutionrelative:nullable, struct, enum, indexer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Program.cs",
+              "RelativeDocumentMoniker": "Nullable, Struct, Enum, Indexer\\Program.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Program.cs",
+              "RelativeToolTip": "Nullable, Struct, Enum, Indexer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:29:41.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListInt.cs",
+              "DocumentMoniker": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
+              "RelativeDocumentMoniker": "Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
+              "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
+              "RelativeToolTip": "Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAQwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-22T04:34:03.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

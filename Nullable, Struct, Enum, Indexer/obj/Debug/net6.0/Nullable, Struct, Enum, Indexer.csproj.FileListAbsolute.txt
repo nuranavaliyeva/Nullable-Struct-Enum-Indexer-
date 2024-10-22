@@ -1,0 +1,14 @@
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\bin\Debug\net6.0\Nullable, Struct, Enum, Indexer.exe
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\bin\Debug\net6.0\Nullable, Struct, Enum, Indexer.deps.json
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\bin\Debug\net6.0\Nullable, Struct, Enum, Indexer.runtimeconfig.json
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\bin\Debug\net6.0\Nullable, Struct, Enum, Indexer.dll
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\bin\Debug\net6.0\Nullable, Struct, Enum, Indexer.pdb
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.dll
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\refint\Nullable, Struct, Enum, Indexer.dll
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.pdb
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\Nullable, Struct, Enum, Indexer.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\Nullable, Struct, Enum, Indexer\Nullable, Struct, Enum, Indexer\obj\Debug\net6.0\ref\Nullable, Struct, Enum, Indexer.dll
