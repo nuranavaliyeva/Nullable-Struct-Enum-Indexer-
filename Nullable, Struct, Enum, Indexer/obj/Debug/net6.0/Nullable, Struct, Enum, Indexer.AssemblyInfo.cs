@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Nullable, Struct, Enum, Indexer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+838585267b77f7e9dedd4a9fb3ba657ac56706ec")]
 [assembly: System.Reflection.AssemblyProductAttribute("Nullable, Struct, Enum, Indexer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Nullable, Struct, Enum, Indexer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

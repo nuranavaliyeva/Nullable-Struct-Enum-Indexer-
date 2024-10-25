@@ -8,20 +8,27 @@ using System.Threading.Tasks;
 
 namespace Nullable__Struct__Enum__Indexer.Models
 {
-    internal class ListInt
+    internal class CustomList<T>
     {
-        private int[] arr;
+        private T[] arr;
 
-        public ListInt()
+        
+        private int Length
         {
-            arr = new int[0];
+            get
+            {
+                return arr.Length;
+            }
         }
-        public ListInt(int length)
 
+        public int Count
         {
-            arr = new int[length];
+            get
+            {
+                return arr.Length;
+            }
         }
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
@@ -41,26 +48,23 @@ namespace Nullable__Struct__Enum__Indexer.Models
 
             }
         }
-        public ListInt(params int[] nums)
+        public CustomList(params T[] nums)
         {
             arr = nums;
         }
-        public int Length
-        {
-            get { return arr.Length; }
-        }
-        public void Add(int num)
+     
+        public void Add(T num)
         {
             Array.Resize(ref arr, arr.Length + 1);
             arr[arr.Length - 1] = num;
-            Console.WriteLine($"{num} added");
+          
         }
-
-        public bool Contains(int num)
+ 
+        public bool Contains(T num)
         {
             for (int i = 0; i < arr.Length; i++)
             {
-                if (arr[i] == num)
+                if (num.Equals(arr[i]))
                 {
                     Console.WriteLine($"{num} var");
                     return true;
@@ -75,61 +79,52 @@ namespace Nullable__Struct__Enum__Indexer.Models
             int sum = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                sum += arr[i];
+                sum += Convert.ToInt32(arr[i]);
             }
             Console.WriteLine($" Sum: {sum}");
         }
-        public void Remove(int num)
+        public void Remove(T num)
         {
-            {
-                int j = 0;
-                int[] newArr = new int[arr.Length - 1];
+            int findIndex = 0;
 
-                for (int i = 0; i < arr.Length; i++)
-                {
-                    if (arr[i] != num)
-                    {
-                        newArr[j] = arr[i];
-                        j++;
-                    }
-                    
-                }
-                arr = newArr;
-                Console.WriteLine($"{num} this num is removed.");
-            }
-
-        }
-        public void AddRange(params int[] nums)
-        {
-            
-            int oldArrLength = arr.Length;
-            Array.Resize(ref arr, arr.Length + nums.Length);
-
-            for (int i = 0; i < nums.Length; i++)
-            {
-                arr[oldArrLength + i] = nums[i];
-            }
-            Console.WriteLine("nums are added.");
-
-        }
-
-       
-        
-        public override string ToString()
-        {
-            
-            string result = "";
             for (int i = 0; i < arr.Length; i++)
             {
-                result += arr[i];
-                if (i < arr.Length - 1)
+                if (arr[i].Equals( num))
                 {
-                    result += ", "; 
+                    findIndex = i;
+                    break;
                 }
+
             }
-            Console.WriteLine(result);
-            return result;
-            
+            for (int i = findIndex; i < arr.Length - 1; i++)
+            {
+                arr[i] = arr[i + 1];
+            }
+            Array.Resize(ref arr, arr.Length - 1);
+        }
+        public void RemoveRange(params T[] arr)
+        {
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Remove(arr[i]);
+            }
+        }
+        public void AddRange(params T[] arr)
+        {
+
+            for (int i = 0; i < arr.Length; i++)
+            {
+                Add(arr[i]);
+            }
+
+        }
+
+
+
+
+        public override string ToString()
+        {
+            return string.Join(", ", arr);
         }
     }
 }

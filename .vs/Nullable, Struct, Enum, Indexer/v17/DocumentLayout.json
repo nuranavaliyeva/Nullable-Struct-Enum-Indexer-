@@ -28,9 +28,10 @@
               "RelativeDocumentMoniker": "Nullable, Struct, Enum, Indexer\\Program.cs",
               "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Program.cs",
               "RelativeToolTip": "Nullable, Struct, Enum, Indexer\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-22T04:29:41.084Z"
+              "WhenOpened": "2024-10-22T04:29:41.084Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -40,7 +41,7 @@
               "RelativeDocumentMoniker": "Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
               "ToolTip": "C:\\Users\\Nuran\\source\\repos\\Nullable, Struct, Enum, Indexer\\Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
               "RelativeToolTip": "Nullable, Struct, Enum, Indexer\\Models\\ListInt.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-22T04:34:03.55Z",
               "EditorCaption": ""
